@@ -74,6 +74,13 @@
                 android:drawableTint="@color/black_60"
                 android:textColorHint="@color/black_60"
                 android:padding="20dp"/>
+            
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:background="@drawable/custom_oval"
+                android:backgroundTint="@color/purple_500"/>
+
 
         </LinearLayout>
 
@@ -82,7 +89,7 @@
     <androidx.appcompat.widget.AppCompatButton
         android:layout_width="match_parent"
         android:layout_height="56dp"
-        android:enabled="true"
+        android:enabled="false"
         android:text="회원가입"
         android:textColor="@color/black"
         android:background="@drawable/custom_button_bg"/>
