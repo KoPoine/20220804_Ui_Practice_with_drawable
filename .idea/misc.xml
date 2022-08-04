@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/NePPPlus_Teacher_01/AndroidStudioProjects/20220804_Ui_Practice_with_drawable/app/src/main/res/drawable/custom_button_bg.xml" value="0.171" />
+        <entry key="..\:/Users/NePPPlus_Teacher_01/AndroidStudioProjects/20220804_Ui_Practice_with_drawable/app/src/main/res/drawable/custom_button_disable.xml" value="0.171" />
+        <entry key="..\:/Users/NePPPlus_Teacher_01/AndroidStudioProjects/20220804_Ui_Practice_with_drawable/app/src/main/res/drawable/custom_button_enable.xml" value="0.171" />
         <entry key="..\:/Users/NePPPlus_Teacher_01/AndroidStudioProjects/20220804_Ui_Practice_with_drawable/app/src/main/res/drawable/custom_edittext_bg_r4.xml" value="0.171" />
-        <entry key="..\:/Users/NePPPlus_Teacher_01/AndroidStudioProjects/20220804_Ui_Practice_with_drawable/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/NePPPlus_Teacher_01/AndroidStudioProjects/20220804_Ui_Practice_with_drawable/app/src/main/res/layout/activity_main.xml" value="0.2" />
       </map>
     </option>
   </component>

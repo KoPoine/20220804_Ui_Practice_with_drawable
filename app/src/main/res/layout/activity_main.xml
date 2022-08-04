@@ -79,9 +79,12 @@
 
     </ScrollView>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:layout_width="match_parent"
         android:layout_height="56dp"
-        android:background="@color/black"/>
+        android:enabled="true"
+        android:text="회원가입"
+        android:textColor="@color/black"
+        android:background="@drawable/custom_button_bg"/>
 
 </LinearLayout>
